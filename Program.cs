@@ -3,5 +3,4 @@ Ninja ninja = new Ninja();
 
 while(!ninja.isFull) {
 ninja.Eat(buffet.Serve());
-ninja.IsFull;
 }
